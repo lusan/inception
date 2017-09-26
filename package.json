@@ -14,7 +14,9 @@
     "prepush": "yarn test"
   },
   "dependencies": {
-    "color": "^2.0.0"
+    "color": "^2.0.0",
+    "compression": "^1.7.0",
+    "express": "^4.15.5"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
